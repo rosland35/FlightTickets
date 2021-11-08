@@ -14,10 +14,10 @@ If the user types 2, your program should assign a seat in the economy section (s
 Program should then display person’s seat number and whether it is in the first-class or economy 
 section of the plane.
 
-If the user types 3, your program should take seat ID from user and validate whether the seat is 
+If the user types 3,  program takes seat ID from user and validate whether the seat is 
 sold or not.
 
-Program also indicate “the plane is now full” when all seats are sold. 
+Program also indicates “the plane is now full” when all seats are sold. 
 Once the system starts, it will not stop.
 
 When the economy section is full, application ask the person if it is acceptable to be placed in the firstclass section (and vice versa). If yes, seat assignment. If no, displays the message "Next flight leaves in 3 hours."
