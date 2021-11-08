@@ -8,9 +8,9 @@ and
 Please type 2 for Buying Economy Class Ticket and 
 Please type 3 for Ticket Validation
 
-If the user types 1, your program should assign a seat in the first-class section (seats1–5). 
+If the user types 1,  program  assigns a seat in the first-class section (seats1–5). 
 
-If the user types 2, your program should assign a seat in the economy section (seats 6–10). 
+If the user types 2,  program assigns a seat in the economy section (seats 6–10). 
 Program should then display person’s seat number and whether it is in the first-class or economy 
 section of the plane.
 
